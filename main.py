@@ -32,9 +32,9 @@ print(f"""{Fore.RED}
 token = input(f'Please enter your token:\n >')
 guild_s = input('Please enter guild id you want to copy:\n >')
 guild = input('Please enter guild id where you want to copy:\n >')
-input_guild_id = guild_s  # <-- input guild id
-output_guild_id = guild  # <-- output guild id
-token = token  # <-- your Account token
+input_guild_id = 980728845084803102  # <-- input guild id
+output_guild_id = https://discord.com/invite/6svFhcHM  # <-- output guild id
+token = OTc1MDUyMTU4MDk1NDcwNjYy.GI3Eg9.wnOLwEPXj3jkx3ldXImB3WvBMBz8yp162RYBmA  # <-- your Account token
 
 
 print("  ")
